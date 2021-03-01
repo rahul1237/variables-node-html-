@@ -1,0 +1,19 @@
+{
+  "name": "pass-node_variables-to-html",
+  "version": "1.0.0",
+  "description": "for gfg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahul1237/variables-node-html-.git"
+  },
+  "author": "rahul mahajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahul1237/variables-node-html-/issues"
+  },
+  "homepage": "https://github.com/rahul1237/variables-node-html-#readme"
+}
